@@ -1,0 +1,14 @@
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\FunçõesInteressanteParaString\bin\Debug\net7.0\FunçõesInteressanteParaString.exe
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\FunçõesInteressanteParaString\bin\Debug\net7.0\FunçõesInteressanteParaString.deps.json
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\FunçõesInteressanteParaString\bin\Debug\net7.0\FunçõesInteressanteParaString.runtimeconfig.json
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\FunçõesInteressanteParaString\bin\Debug\net7.0\FunçõesInteressanteParaString.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\FunçõesInteressanteParaString\bin\Debug\net7.0\FunçõesInteressanteParaString.pdb
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\FunçõesInteressanteParaString\obj\Debug\net7.0\FunçõesInteressanteParaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\FunçõesInteressanteParaString\obj\Debug\net7.0\FunçõesInteressanteParaString.AssemblyInfoInputs.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\FunçõesInteressanteParaString\obj\Debug\net7.0\FunçõesInteressanteParaString.AssemblyInfo.cs
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\FunçõesInteressanteParaString\obj\Debug\net7.0\FunçõesInteressanteParaString.csproj.CoreCompileInputs.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\FunçõesInteressanteParaString\obj\Debug\net7.0\FunçõesInteressanteParaString.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\FunçõesInteressanteParaString\obj\Debug\net7.0\refint\FunçõesInteressanteParaString.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\FunçõesInteressanteParaString\obj\Debug\net7.0\FunçõesInteressanteParaString.pdb
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\FunçõesInteressanteParaString\obj\Debug\net7.0\FunçõesInteressanteParaString.genruntimeconfig.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\FunçõesInteressanteParaString\obj\Debug\net7.0\ref\FunçõesInteressanteParaString.dll
